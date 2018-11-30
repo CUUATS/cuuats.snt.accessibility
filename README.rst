@@ -1,4 +1,4 @@
-Sustainable Neighborhoods Toolkit Accessibility
-===============================================
+We've moved!
+============
 
-Accessibility calculations for the Sustainable Neighborhood Toolkit
+This repository is now `hosted on GitLab <https://gitlab.com/ccrpc/cuuats.snt.accessibility>`_.
